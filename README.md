@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi 👋, I'm Atakan Demircioğlu</h1>
 
-<!--
-**atakde/atakde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 All of my projects are available at [https://atakann.com](https://atakann.com)
+- 📝 I regularly write articles on [https://medium.com/@atakde](https://medium.com/@atakde)
+- 💬 Ask me about **PHP, React, Javascript**
+- 📫 How to reach me **me@atakann.com**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/atakde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="atakde" height="30" width="40" /></a>
+<a href="https://twitter.com/atakde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atakde" height="30" width="40" /></a>
+<a href="https://medium.com/@atakde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@atakde" height="30" width="40" /></a>
+</p>
