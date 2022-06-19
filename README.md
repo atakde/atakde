@@ -11,3 +11,7 @@
 <a href="https://twitter.com/atakde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atakde" height="30" width="40" /></a>
 <a href="https://medium.com/@atakde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@atakde" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Recent Articles:</h3>
+
+[![Medium Articles](https://nodejs-medium-fetcher.vercel.app/?username=atakde&limit=5&responseType=svg)](https://medium.com/@atakde)
