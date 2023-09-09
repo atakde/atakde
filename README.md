@@ -3,7 +3,7 @@
 - 👨‍💻 All of my projects are available at [https://atakann.com](https://atakann.com)
 - 📝 I regularly write articles on [https://medium.com/@atakde](https://medium.com/@atakde)
 - 💬 Ask me about **PHP, React, Javascript**
-- 📫 How to reach me **me@atakann.com**
+- 📫 How to reach me **atk.demircioglu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
