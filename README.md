@@ -13,7 +13,7 @@
 </p>
 
 <!--MEDIUM-ARTICLES-START-->
-## Latest Articles
+### Latest Articles
 
 1. [Builder Pattern in PHP](https://blog.stackademic.com/builder-pattern-in-php-57249ba877fb)
 2. [How to Create and Modify PDF Files With pdf-lib](https://atakde.medium.com/how-to-create-and-modify-pdf-files-with-pdf-lib-15787083ff2c)
@@ -21,5 +21,5 @@
 4. [Laravel with React: A Step-by-Step Guide](https://blog.stackademic.com/laravel-with-react-a-step-by-step-guide-938441d17af2)
 5. [We Improved Largest Contentful Paint (LCP) by Over 30% Using These Simple Techniques](https://tech.jotform.com/we-improved-largest-contentful-paint-lcp-by-over-30-using-these-simple-techniques-91e6884cb7ba)
 
-_Last updated: 26/08/2024, 20:03:02_
+_Last updated: 26/08/2024, 20:03:57_
 <!--MEDIUM-ARTICLES-END-->
