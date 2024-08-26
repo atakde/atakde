@@ -10,7 +10,7 @@ const fetchMediumArticles = async (username, limit, responseType) => {
 const generateMarkdown = async (username, limit, responseType) => {
     const posts = await fetchMediumArticles(username, limit, responseType);
 
-    let markdown = `### Latest Articles\n\n`;
+    let markdown = `<h3 align="left">Latest Articles</h3>\n\n`;
     posts.forEach((post, index) => {
         markdown += `${index + 1}. [${post.title}](${post.link})\n`;
     });
