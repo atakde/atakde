@@ -15,11 +15,11 @@
 <!--MEDIUM-ARTICLES-START-->
 <h3 align="left">Latest Articles</h3>
 
-1. [Builder Pattern in PHP](https://blog.stackademic.com/builder-pattern-in-php-57249ba877fb)
-2. [How to Create and Modify PDF Files With pdf-lib](https://atakde.medium.com/how-to-create-and-modify-pdf-files-with-pdf-lib-15787083ff2c)
-3. [Serverless OG Image Generator /w Lambda](https://levelup.gitconnected.com/serverless-og-image-generator-w-lambda-6cf029fce42a)
-4. [Laravel with React: A Step-by-Step Guide](https://blog.stackademic.com/laravel-with-react-a-step-by-step-guide-938441d17af2)
-5. [We Improved Largest Contentful Paint (LCP) by Over 30% Using These Simple Techniques](https://tech.jotform.com/we-improved-largest-contentful-paint-lcp-by-over-30-using-these-simple-techniques-91e6884cb7ba)
+1. [Exploring Short Polling, Long Polling, Server-Sent Events, and WebSockets](https://javascript.plainenglish.io/exploring-short-polling-long-polling-server-sent-events-and-websockets-63a4231e60d4)
+2. [Builder Pattern in PHP](https://blog.stackademic.com/builder-pattern-in-php-57249ba877fb)
+3. [How to Create and Modify PDF Files With pdf-lib](https://atakde.medium.com/how-to-create-and-modify-pdf-files-with-pdf-lib-15787083ff2c)
+4. [Serverless OG Image Generator /w Lambda](https://levelup.gitconnected.com/serverless-og-image-generator-w-lambda-6cf029fce42a)
+5. [Laravel with React: A Step-by-Step Guide](https://blog.stackademic.com/laravel-with-react-a-step-by-step-guide-938441d17af2)
 
-_Last updated: 16/09/2024, 12:32:58_
+_Last updated: 17/09/2024, 01:00:51_
 <!--MEDIUM-ARTICLES-END-->
