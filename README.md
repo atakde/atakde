@@ -21,5 +21,5 @@
 4. [Serverless OG Image Generator /w Lambda](https://levelup.gitconnected.com/serverless-og-image-generator-w-lambda-6cf029fce42a)
 5. [Laravel with React: A Step-by-Step Guide](https://blog.stackademic.com/laravel-with-react-a-step-by-step-guide-938441d17af2)
 
-_Last updated: 20/09/2024, 01:13:56_
+_Last updated: 20/09/2024, 12:31:43_
 <!--MEDIUM-ARTICLES-END-->
