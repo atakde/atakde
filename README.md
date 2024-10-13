@@ -21,5 +21,5 @@
 4. [How to Create and Modify PDF Files With pdf-lib](https://atakde.medium.com/how-to-create-and-modify-pdf-files-with-pdf-lib-15787083ff2c)
 5. [Serverless OG Image Generator /w Lambda](https://levelup.gitconnected.com/serverless-og-image-generator-w-lambda-6cf029fce42a)
 
-_Last updated: 12/10/2024, 12:29:45_
+_Last updated: 13/10/2024, 01:20:59_
 <!--MEDIUM-ARTICLES-END-->
