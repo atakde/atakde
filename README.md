@@ -21,5 +21,5 @@
 4. [Builder Pattern in PHP](https://blog.stackademic.com/builder-pattern-in-php-57249ba877fb)
 5. [How to Create and Modify PDF Files With pdf-lib](https://atakde.medium.com/how-to-create-and-modify-pdf-files-with-pdf-lib-15787083ff2c)
 
-_Last updated: 31/10/2024, 12:32:55_
+_Last updated: 01/11/2024, 01:22:30_
 <!--MEDIUM-ARTICLES-END-->
