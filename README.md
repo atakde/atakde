@@ -21,5 +21,5 @@
 4. [Exploring Short Polling, Long Polling, Server-Sent Events, and WebSockets](https://javascript.plainenglish.io/exploring-short-polling-long-polling-server-sent-events-and-websockets-63a4231e60d4)
 5. [Builder Pattern in PHP](https://blog.stackademic.com/builder-pattern-in-php-57249ba877fb)
 
-_Last updated: 20/11/2024, 12:34:28_
+_Last updated: 21/11/2024, 01:19:38_
 <!--MEDIUM-ARTICLES-END-->
