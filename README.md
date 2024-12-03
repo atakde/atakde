@@ -21,5 +21,5 @@
 4. [Property Hooks in PHP](https://blog.stackademic.com/property-hooks-in-php-807d042b942c)
 5. [Exploring Short Polling, Long Polling, Server-Sent Events, and WebSockets](https://javascript.plainenglish.io/exploring-short-polling-long-polling-server-sent-events-and-websockets-63a4231e60d4)
 
-_Last updated: 02/12/2024, 12:37:07_
+_Last updated: 03/12/2024, 01:23:18_
 <!--MEDIUM-ARTICLES-END-->
