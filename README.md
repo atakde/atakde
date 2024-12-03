@@ -15,11 +15,11 @@
 <!--MEDIUM-ARTICLES-START-->
 <h3 align="left">Latest Articles</h3>
 
-1. [The Future of PHP Performance: Lazy Objects in PHP 8.4](https://levelup.gitconnected.com/the-future-of-php-performance-lazy-objects-in-php-8-4-f40f2cfb0ca9)
+1. [The Future of PHP Performance: Lazy Objects in PHP 8.4](https://blog.stackademic.com/the-future-of-php-performance-lazy-objects-in-php-8-4-f40f2cfb0ca9)
 2. [PHP Enums are Powerful](https://levelup.gitconnected.com/php-enums-are-powerful-9bb15146e1ab)
 3. [PHP Traits are useful](https://blog.stackademic.com/php-traits-are-useful-c58c4b7f9bc4)
 4. [Property Hooks in PHP](https://blog.stackademic.com/property-hooks-in-php-807d042b942c)
 5. [Exploring Short Polling, Long Polling, Server-Sent Events, and WebSockets](https://javascript.plainenglish.io/exploring-short-polling-long-polling-server-sent-events-and-websockets-63a4231e60d4)
 
-_Last updated: 03/12/2024, 01:23:18_
+_Last updated: 03/12/2024, 12:35:23_
 <!--MEDIUM-ARTICLES-END-->
