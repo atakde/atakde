@@ -15,11 +15,11 @@
 <!--MEDIUM-ARTICLES-START-->
 <h3 align="left">Latest Articles</h3>
 
-1. [Cursor Based Pagination](https://atakde.medium.com/cursor-based-pagination-0d898719655c)
+1. [Cursor Based Pagination](https://blog.stackademic.com/cursor-based-pagination-0d898719655c)
 2. [The Future of PHP Performance: Lazy Objects in PHP 8.4](https://blog.stackademic.com/the-future-of-php-performance-lazy-objects-in-php-8-4-f40f2cfb0ca9)
 3. [PHP Enums are Powerful](https://levelup.gitconnected.com/php-enums-are-powerful-9bb15146e1ab)
 4. [PHP Traits are useful](https://blog.stackademic.com/php-traits-are-useful-c58c4b7f9bc4)
 5. [Property Hooks in PHP](https://blog.stackademic.com/property-hooks-in-php-807d042b942c)
 
-_Last updated: 23/12/2024, 01:18:07_
+_Last updated: 23/12/2024, 12:33:13_
 <!--MEDIUM-ARTICLES-END-->
