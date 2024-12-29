@@ -15,11 +15,11 @@
 <!--MEDIUM-ARTICLES-START-->
 <h3 align="left">Latest Articles</h3>
 
-1. [Cursor Based Pagination](https://blog.stackademic.com/cursor-based-pagination-0d898719655c)
-2. [The Future of PHP Performance: Lazy Objects in PHP 8.4](https://blog.stackademic.com/the-future-of-php-performance-lazy-objects-in-php-8-4-f40f2cfb0ca9)
-3. [PHP Enums are Powerful](https://levelup.gitconnected.com/php-enums-are-powerful-9bb15146e1ab)
-4. [PHP Traits are useful](https://blog.stackademic.com/php-traits-are-useful-c58c4b7f9bc4)
-5. [Property Hooks in PHP](https://blog.stackademic.com/property-hooks-in-php-807d042b942c)
+1. [How to Avoid Blocking While Web Scraping](https://javascript.plainenglish.io/how-to-avoid-blocking-while-web-scraping-85913b34d39c)
+2. [Cursor Based Pagination](https://blog.stackademic.com/cursor-based-pagination-0d898719655c)
+3. [The Future of PHP Performance: Lazy Objects in PHP 8.4](https://blog.stackademic.com/the-future-of-php-performance-lazy-objects-in-php-8-4-f40f2cfb0ca9)
+4. [PHP Enums are Powerful](https://levelup.gitconnected.com/php-enums-are-powerful-9bb15146e1ab)
+5. [PHP Traits are useful](https://blog.stackademic.com/php-traits-are-useful-c58c4b7f9bc4)
 
-_Last updated: 28/12/2024, 12:30:10_
+_Last updated: 29/12/2024, 01:23:19_
 <!--MEDIUM-ARTICLES-END-->
