@@ -15,11 +15,11 @@
 <!--MEDIUM-ARTICLES-START-->
 <h3 align="left">Latest Articles</h3>
 
-1. [Getting to Know PHP’s WeakMap: The Smart Way to Cache Without Memory Leaks](https://blog.stackademic.com/getting-to-know-phps-weakmap-the-smart-way-to-cache-without-memory-leaks-a6420d8e50a3)
-2. [Key Web Storage Questions on Cookies, Local & Session Storage](https://blog.stackademic.com/key-web-storage-questions-on-cookies-local-session-storage-518daa003a7a)
-3. [How to Avoid Blocking While Web Scraping](https://levelup.gitconnected.com/how-to-avoid-blocking-while-web-scraping-85913b34d39c)
-4. [Cursor Based Pagination](https://blog.stackademic.com/cursor-based-pagination-0d898719655c)
-5. [The Future of PHP Performance: Lazy Objects in PHP 8.4](https://blog.stackademic.com/the-future-of-php-performance-lazy-objects-in-php-8-4-f40f2cfb0ca9)
+1. [Best Practices for Naming SQL Indexes](https://blog.stackademic.com/best-practices-for-naming-sql-indexes-7140f5988090)
+2. [Getting to Know PHP’s WeakMap: The Smart Way to Cache Without Memory Leaks](https://blog.stackademic.com/getting-to-know-phps-weakmap-the-smart-way-to-cache-without-memory-leaks-a6420d8e50a3)
+3. [Key Web Storage Questions on Cookies, Local & Session Storage](https://blog.stackademic.com/key-web-storage-questions-on-cookies-local-session-storage-518daa003a7a)
+4. [How to Avoid Blocking While Web Scraping](https://levelup.gitconnected.com/how-to-avoid-blocking-while-web-scraping-85913b34d39c)
+5. [Cursor Based Pagination](https://blog.stackademic.com/cursor-based-pagination-0d898719655c)
 
-_Last updated: 19/04/2025, 01:20:54_
+_Last updated: 19/04/2025, 08:07:32_
 <!--MEDIUM-ARTICLES-END-->
