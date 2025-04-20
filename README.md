@@ -15,11 +15,11 @@
 <!--MEDIUM-ARTICLES-START-->
 <h3 align="left">Latest Articles</h3>
 
-1. [Best Practices for Naming SQL Indexes](https://blog.stackademic.com/best-practices-for-naming-sql-indexes-7140f5988090)
+1. [Best Practices for Naming SQL Indexes](https://levelup.gitconnected.com/best-practices-for-naming-sql-indexes-7140f5988090)
 2. [Getting to Know PHP’s WeakMap: The Smart Way to Cache Without Memory Leaks](https://blog.stackademic.com/getting-to-know-phps-weakmap-the-smart-way-to-cache-without-memory-leaks-a6420d8e50a3)
 3. [Key Web Storage Questions on Cookies, Local & Session Storage](https://blog.stackademic.com/key-web-storage-questions-on-cookies-local-session-storage-518daa003a7a)
 4. [How to Avoid Blocking While Web Scraping](https://levelup.gitconnected.com/how-to-avoid-blocking-while-web-scraping-85913b34d39c)
 5. [Cursor Based Pagination](https://blog.stackademic.com/cursor-based-pagination-0d898719655c)
 
-_Last updated: 20/04/2025, 01:37:12_
+_Last updated: 20/04/2025, 12:32:36_
 <!--MEDIUM-ARTICLES-END-->
