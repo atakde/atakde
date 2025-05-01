@@ -21,5 +21,5 @@
 4. [How to Avoid Blocking While Web Scraping](https://levelup.gitconnected.com/how-to-avoid-blocking-while-web-scraping-85913b34d39c)
 5. [Cursor Based Pagination](https://blog.stackademic.com/cursor-based-pagination-0d898719655c)
 
-_Last updated: 30/04/2025, 12:36:40_
+_Last updated: 01/05/2025, 12:36:14_
 <!--MEDIUM-ARTICLES-END-->
