@@ -15,11 +15,11 @@
 <!--MEDIUM-ARTICLES-START-->
 <h3 align="left">Latest Articles</h3>
 
-1. [Stop Using Generic Index Names: SQL Naming Best Practices with Examples](https://levelup.gitconnected.com/best-practices-for-naming-sql-indexes-7140f5988090)
-2. [Getting to Know PHP’s WeakMap: The Smart Way to Cache Without Memory Leaks](https://blog.stackademic.com/getting-to-know-phps-weakmap-the-smart-way-to-cache-without-memory-leaks-a6420d8e50a3)
-3. [Key Web Storage Questions on Cookies, Local & Session Storage](https://blog.stackademic.com/key-web-storage-questions-on-cookies-local-session-storage-518daa003a7a)
-4. [How to Avoid Blocking While Web Scraping](https://levelup.gitconnected.com/how-to-avoid-blocking-while-web-scraping-85913b34d39c)
-5. [Cursor Based Pagination](https://blog.stackademic.com/cursor-based-pagination-0d898719655c)
+1. [PHP’s Named Arguments: Making Code Cleaner or Complicating It](https://blog.stackademic.com/discover-how-phps-named-arguments-feature-can-improve-code-readability-and-flexibility-or-07dcf689c161)
+2. [Stop Using Generic Index Names: SQL Naming Best Practices with Examples](https://levelup.gitconnected.com/best-practices-for-naming-sql-indexes-7140f5988090)
+3. [Getting to Know PHP’s WeakMap: The Smart Way to Cache Without Memory Leaks](https://blog.stackademic.com/getting-to-know-phps-weakmap-the-smart-way-to-cache-without-memory-leaks-a6420d8e50a3)
+4. [Key Web Storage Questions on Cookies, Local & Session Storage](https://blog.stackademic.com/key-web-storage-questions-on-cookies-local-session-storage-518daa003a7a)
+5. [How to Avoid Blocking While Web Scraping](https://levelup.gitconnected.com/how-to-avoid-blocking-while-web-scraping-85913b34d39c)
 
-_Last updated: 12/05/2025, 12:39:08_
+_Last updated: 12/05/2025, 19:45:36_
 <!--MEDIUM-ARTICLES-END-->
