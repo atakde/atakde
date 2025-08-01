@@ -21,5 +21,5 @@
 4. [Getting to Know PHP’s WeakMap: The Smart Way to Cache Without Memory Leaks](https://blog.stackademic.com/getting-to-know-phps-weakmap-the-smart-way-to-cache-without-memory-leaks-a6420d8e50a3)
 5. [Key Web Storage Questions on Cookies, Local & Session Storage](https://blog.stackademic.com/key-web-storage-questions-on-cookies-local-session-storage-518daa003a7a)
 
-_Last updated: 31/07/2025, 12:42:03_
+_Last updated: 01/08/2025, 01:57:54_
 <!--MEDIUM-ARTICLES-END-->
