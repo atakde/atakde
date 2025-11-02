@@ -15,11 +15,11 @@
 <!--MEDIUM-ARTICLES-START-->
 <h3 align="left">Latest Articles</h3>
 
-1. [Template Method in PHP](https://levelup.gitconnected.com/template-method-in-php-3ba8d46d3b86)
-2. [PHP’s Named Arguments: Making Code Cleaner or Complicating It](https://blog.stackademic.com/discover-how-phps-named-arguments-feature-can-improve-code-readability-and-flexibility-or-07dcf689c161)
-3. [Stop Using Generic Index Names: SQL Naming Best Practices with Examples](https://levelup.gitconnected.com/best-practices-for-naming-sql-indexes-7140f5988090)
-4. [Getting to Know PHP’s WeakMap: The Smart Way to Cache Without Memory Leaks](https://blog.stackademic.com/getting-to-know-phps-weakmap-the-smart-way-to-cache-without-memory-leaks-a6420d8e50a3)
-5. [Key Web Storage Questions on Cookies, Local & Session Storage](https://blog.stackademic.com/key-web-storage-questions-on-cookies-local-session-storage-518daa003a7a)
+1. [TOON Notation for Smarter LLM Prompts in PHP](https://blog.stackademic.com/toon-notation-for-smarter-llm-prompts-in-php-112069cae0c3)
+2. [Template Method in PHP](https://levelup.gitconnected.com/template-method-in-php-3ba8d46d3b86)
+3. [PHP’s Named Arguments: Making Code Cleaner or Complicating It](https://blog.stackademic.com/discover-how-phps-named-arguments-feature-can-improve-code-readability-and-flexibility-or-07dcf689c161)
+4. [Stop Using Generic Index Names: SQL Naming Best Practices with Examples](https://levelup.gitconnected.com/best-practices-for-naming-sql-indexes-7140f5988090)
+5. [Getting to Know PHP’s WeakMap: The Smart Way to Cache Without Memory Leaks](https://blog.stackademic.com/getting-to-know-phps-weakmap-the-smart-way-to-cache-without-memory-leaks-a6420d8e50a3)
 
-_Last updated: 02/11/2025, 12:34:31_
+_Last updated: 02/11/2025, 21:54:17_
 <!--MEDIUM-ARTICLES-END-->
