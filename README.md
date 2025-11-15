@@ -21,5 +21,5 @@
 4. [Stop Using Generic Index Names: SQL Naming Best Practices with Examples](https://levelup.gitconnected.com/best-practices-for-naming-sql-indexes-7140f5988090)
 5. [Getting to Know PHP’s WeakMap: The Smart Way to Cache Without Memory Leaks](https://blog.stackademic.com/getting-to-know-phps-weakmap-the-smart-way-to-cache-without-memory-leaks-a6420d8e50a3)
 
-_Last updated: 14/11/2025, 12:40:01_
+_Last updated: 15/11/2025, 01:25:38_
 <!--MEDIUM-ARTICLES-END-->
