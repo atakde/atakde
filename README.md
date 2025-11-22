@@ -15,11 +15,11 @@
 <!--MEDIUM-ARTICLES-START-->
 <h3 align="left">Latest Articles</h3>
 
-1. [TOON Notation for Smarter LLM Prompts in PHP](https://blog.stackademic.com/toon-notation-for-smarter-llm-prompts-in-php-112069cae0c3)
-2. [Template Method in PHP](https://levelup.gitconnected.com/template-method-in-php-3ba8d46d3b86)
-3. [PHP’s Named Arguments: Making Code Cleaner or Complicating It](https://blog.stackademic.com/discover-how-phps-named-arguments-feature-can-improve-code-readability-and-flexibility-or-07dcf689c161)
-4. [Stop Using Generic Index Names: SQL Naming Best Practices with Examples](https://levelup.gitconnected.com/best-practices-for-naming-sql-indexes-7140f5988090)
-5. [Getting to Know PHP’s WeakMap: The Smart Way to Cache Without Memory Leaks](https://blog.stackademic.com/getting-to-know-phps-weakmap-the-smart-way-to-cache-without-memory-leaks-a6420d8e50a3)
+1. [PHP 8.5: A Major Update Bringing Modern Features](https://blog.stackademic.com/php-8-5-a-major-update-bringing-modern-features-d07625f47a5b)
+2. [TOON Notation for Smarter LLM Prompts in PHP](https://blog.stackademic.com/toon-notation-for-smarter-llm-prompts-in-php-112069cae0c3)
+3. [Template Method in PHP](https://levelup.gitconnected.com/template-method-in-php-3ba8d46d3b86)
+4. [PHP’s Named Arguments: Making Code Cleaner or Complicating It](https://blog.stackademic.com/discover-how-phps-named-arguments-feature-can-improve-code-readability-and-flexibility-or-07dcf689c161)
+5. [Stop Using Generic Index Names: SQL Naming Best Practices with Examples](https://levelup.gitconnected.com/best-practices-for-naming-sql-indexes-7140f5988090)
 
-_Last updated: 19/11/2025, 12:41:14_
+_Last updated: 22/11/2025, 05:28:40_
 <!--MEDIUM-ARTICLES-END-->
